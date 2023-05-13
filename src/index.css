@@ -1,0 +1,34 @@
+nav{
+  padding:10px;
+  display: inline-block;
+}
+.form-inline{
+  display: inline-block;
+}
+#head{
+  padding: 10px;
+}
+
+#head h2{
+  text-align: center;
+}
+.card-footer{
+  text-align: right;
+}
+#div_table{
+  overflow-x: auto;
+}
+.art{
+  position: relative;
+  top: 0px;
+  right: 10px !important;
+}
+#card-time{
+  text-align: center;
+}
+#card-time p{
+  text-align: justify;
+}
+ul{
+  text-align: left
+}
